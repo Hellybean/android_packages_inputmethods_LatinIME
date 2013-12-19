@@ -35,9 +35,9 @@
     <color name="gesture_floating_preview_color_gb">#C0000000</color>
     <!-- Color resources for IceCreamSandwich theme. Base color = 33B5E5 -->
     <!-- android:color/holo_blue_light value is #FF33B5E5 -->
-    <color name="highlight_color_ics">#FF33B5E5</color>
-    <color name="typed_word_color_ics">#D833B5E5</color>
-    <color name="suggested_word_color_ics">#B233B5E5</color>
+    <color name="highlight_color_ics">#FFE63333</color>
+    <color name="typed_word_color_ics">#D8E63333</color>
+    <color name="suggested_word_color_ics">#B2E63333</color>
     <color name="highlight_translucent_color_ics">#9933B5E5</color>
     <color name="key_text_shadow_color_ics">@android:color/transparent</color>
     <color name="key_text_inactivated_color_ics">#66E0E4E5</color>
@@ -56,7 +56,7 @@
     <!-- Color resources for setup wizard and tutorial -->
     <color name="setup_background">#FFEBEBEB</color>
     <color name="setup_text_dark">#FF707070</color>
-    <color name="setup_text_action">@android:color/holo_blue_light</color>
+    <color name="setup_text_action">@android:color/holo_red_light</color>
     <color name="setup_step_background">@android:color/background_light</color>
     <color name="setup_welcome_video_margin_color">#FFCCCCCC</color>
     <color name="emoji_category_page_id_view_background">#FF000000</color>
